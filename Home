@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Physiotherapy Clinic</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Physiotherapy Clinic</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">About Us</a>
+      <a href="#">Services</a>
+      <a href="#">Contact Us</a>
+    </nav>
+  </header>
+  <main>
+    <section id="home">
+      <h2>Welcome to our physiotherapy clinic</h2>
+      <p>We are a team of experienced physiotherapists who are dedicated to helping our patients improve their quality of life. We offer a wide range of services, including:</p>
+      <ul>
+        <li>Pain management</li>
+        <li>Rehabilitation</li>
+        <li>Sports injury treatment</li>
+        <li>Post-surgical care</li>
+      </ul>
+      <p>We believe in providing personalized care to each and every patient. We will work with you to develop a treatment plan that is tailored to your individual needs.</p>
+      <p>Contact us today to schedule a consultation.</p>
+    </section>
+    <section id="about-us">
+      <h2>About Us</h2>
+      <p>Our physiotherapy clinic was founded in 2000 by Dr. John Smith. Dr. Smith is a board-certified physiotherapist with over 20 years of experience. He is passionate about helping people improve their health and well-being through physiotherapy.</p>
+      <p>Our clinic is located in the heart of downtown. We are conveniently accessible by public transportation and parking is available on-site.</p>
+      <p>We are committed to providing our patients with the highest quality care. We use the latest evidence-based treatments and our staff is highly trained and experienced.</p>
+      <p>We are proud to be a part of the community and we are committed to providing our patients with the best possible care.</p>
+    </section>
+    <section id="services">
+      <h2>Services</h2>
+      <p>We offer a wide range of physiotherapy services, including:</p>
+      <ul>
+        <li>Pain management</li>
+        <li>Rehabilitation</li>
+        <li>Sports injury treatment</li>
+        <li>Post-surgical care</li>
+      </ul>
+      <p>We also offer a variety of other services, such as:</p>
+      <ul>
+        <li>Massage therapy</li>
+        <li>Acupuncture</li>
+        <li>Cupping</li>
+      </ul>
+      <p>Contact us today to learn more about our services.</p>
+    </section>
+    <section id="contact-us">
+      <h2>Contact Us</p>
+      <p>Our clinic is located at:</p>
+      <p>123 Main Street</p>
+      <p>Anytown, CA 12345</p>
+      <p>Our phone number is:</p>
+      <p>(555) 555-5555</p>
+      <p>You can also contact us by email at:</p>
+      <p>info@physiotherapyclinic.com</p>
+    </section>
+  </main>
+  <footer>
+    <p>Copyright &copy; 2023 physiotherapy clinic</p>
+  </footer>
+</body>
+</html>
